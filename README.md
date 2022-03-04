@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fratelemk
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning VR, AI, Android Development
+- 🌱 I’m currently learning VR, AI
 
 <!---
 fratelemk/fratelemk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
